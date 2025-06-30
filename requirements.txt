@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+cvzone
+tensorflow
+numpy
+pandas
+pyttsx3 
+gTTS
