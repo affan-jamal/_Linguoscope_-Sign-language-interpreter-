@@ -62,8 +62,8 @@ sign-language-interpreter/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Affan-04/sign-language-interpreter.git
-cd sign-language-interpreter
+git clone https://github.com/affan-jamal/_Linguoscope_-Sign-language-interpreter-.git
+cd _Linguoscope_-Sign-language-interpreter-
 
 # Create a virtual environment
 python -m venv venv
